@@ -1,7 +1,8 @@
 name: connect_to_sql_server_directly
 description: A flutter plugin to connect to a sql server database directly.
 version: 0.0.1
-homepage:
+homepage: https://github.com/ElhamM7518/flutter_connect_to_sql_server_directly
+repository: https://github.com/ElhamM7518/flutter_connect_to_sql_server_directly
 
 environment:
   sdk: ">=2.17.3 <3.0.0"
