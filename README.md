@@ -12,7 +12,7 @@ Also You can execute Insert, Delete or Update queries on a table to get the stat
 ## Sample
 
 <p align="center">
-  <img src="https://github.com/ElhamM7518/flutter_connect_to_sql_server_directly/blob/main/screenshots/connect_to_sql_server.gif?raw=true" width="400"/>
+  <img src="https://github.com/ElhamM7518/flutter_connect_to_sql_server_directly/blob/master/screenshots/connect_to_sql_server.gif?raw=true" width="400"/>
 </p>
 
 
